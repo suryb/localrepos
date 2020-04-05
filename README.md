@@ -17,3 +17,7 @@ _Java_
 
 
 How do I do code and blockquotes
+
+_Python_ is great 
+
+__print ("This is sury")__ 
